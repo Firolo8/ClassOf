@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Custom styles for the ClassOf project can be placed here.  Tailwind
+ * classes should cover most styling needs, but if you require
+ * additional CSS you can add it below.
+ */
